@@ -1,0 +1,35 @@
+#t1-p1 {
+    color: green;
+}
+
+#t2-s1 {color: #f711f7;}
+#t2-s2 {color: #f711f7;}
+
+#t3-s1 {color: red;}
+#t3-s2 {color: goldenrod;}
+#t3-s3 {color: blue;}
+
+#t4-p1 {background-color: skyblue;}
+
+#t5-s1 {background-color: yellow;}
+
+#t6-s1 {font-weight: bold;}
+#t6-s2 {font-weight: bold;}
+
+#t7-s1 {font-style: italic;}
+#t7-s2 {font-weight: bold;}
+#t7-s3 {font-style: italic;}
+
+#t8-s1 {text-decoration: underline;}
+#t8-s2 {text-decoration: underline;}
+
+#t9-h {font-size: 36px;}
+
+#t10-e {text-align: center;}
+#t10-e {font-weight: bold;}
+#t10-e {font-size: 12px;}
+#t10-h {text-align: center;}
+#t10-h {font-weight: bold;}
+#t10-h {font-size: 48px;}
+#t10-sh {text-align: center;}
+#t10-sh {font-size: 24px;}

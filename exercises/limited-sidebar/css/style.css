@@ -1,0 +1,28 @@
+#c1 {
+    font-size: 24px;
+    font-weight: bold;}
+#s1c1 {
+    font-style: italic;
+color: orange;}
+#s2c1 {
+    font-style: italic;
+color: orange;}
+
+#c2 { font-size: 24px;
+font-weight: bold;}
+#s1c2 {
+    font-style: italic;
+color: orange;}
+
+#c3 { font-size: 24px;
+font-weight: bold;}
+
+#c4 { font-size: 24px;
+font-weight: bold;
+color: red;}
+#allc4 {
+    font-style: italic;
+color: orange;}
+
+#c5 { font-size: 24px;
+font-weight: bold;}

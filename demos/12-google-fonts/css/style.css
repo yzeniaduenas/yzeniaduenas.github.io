@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Montenegrin+Gothic+One&family=Yuyu&display=swap');
+
+*{
+    box-sizing:border-box
+}
+body {
+    margin: 0px;
+    font-family: "Montenegrin Gothic One", serif;
+}
+h1,
+h2,
+h3,
+h6 {
+     font-family: "Yuyu", sans-serif;
+}

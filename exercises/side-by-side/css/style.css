@@ -1,0 +1,10 @@
+.single-column {
+    margin: 0px auto;
+}
+
+.split-layout {
+    display: flex;
+    gap: 25px;
+    align-items: center;
+    margin-top: 40px;
+}

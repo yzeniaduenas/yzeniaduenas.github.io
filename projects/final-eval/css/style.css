@@ -43,3 +43,31 @@
     text-align: center;
     margin-top: 50px;
 }
+
+.btns{
+    display: flex;
+    margin-left: 25%;
+    gap: 15%;
+    margin-top: 5%;
+}
+.btn-one {
+    background-color:  rgb(112, 99, 170); 
+    border-radius: 15%;
+    padding: 5%;
+}
+.btn-one a {
+    text-decoration: none;
+    font-weight: bold;
+    color: white;
+}
+
+.btn-two {
+    background-color:  rgb(112, 99, 170); 
+    border-radius: 15%;
+    padding: 5%;
+}
+.btn-two a {
+    text-decoration: none;
+    font-weight: bold;
+    color: white;
+}

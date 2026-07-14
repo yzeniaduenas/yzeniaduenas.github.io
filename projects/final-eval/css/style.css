@@ -1,0 +1,45 @@
+.top-dio {
+    text-align: center;
+    margin: 0px;
+}
+.top-dio h1{
+    font-size: 50px;
+    margin: 0%;
+    color: rgb(112, 99, 170);   ;
+}
+.top-dio h3{
+    font-size: 30px;
+    margin-top: 5px;
+    margin-bottom: 80px;
+}
+
+.imgs {
+    display: flex;
+    gap: 5%;
+}
+
+
+.frt-pic{
+    padding: 30px;
+    background-color: rgb(112, 99, 170);   
+}
+.frt-pic p {
+    text-align: center;
+    font-size: 30px;
+    margin-top: 15px;
+}
+
+.scnd-pic{
+    padding: 30px;
+    background-color: rgb(112, 99, 170);   
+}
+.scnd-pic p {
+    text-align: center;
+    font-size: 30px;
+    margin-top: 15px;
+}
+
+.info {
+    text-align: center;
+    margin-top: 50px;
+}

@@ -1,0 +1,52 @@
+* {
+    box-sizing: border-box;
+}
+nav{
+    display: flex;
+    align-items: center;
+    gap: 24px;
+    padding: 16px 0px;
+    margin-left: 45px;
+}
+header {
+    background-color: #75bedb;
+    top: 0px;
+}
+nav a { 
+    color:  #234f69;
+    text-decoration: none;
+    margin-left: 145px;
+}
+
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+}
+
+.hero {
+  height: 50vh;
+  background: url(../images/2026-07-16\ \(3\).png);
+  background-size: cover;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 5px;
+}
+.hero::after {
+  position: absolute;
+  top: 0; left: 0;
+}
+.hero-content {
+  position: relative;
+  z-index: 1;
+}
+.hero h2 {
+    color: rgb(49, 60, 85);
+    font-size: 200%;
+    margin-bottom: 90%;
+}
+
+.single-column{
+    text-align: center;
+    font-size: 120%;
+}

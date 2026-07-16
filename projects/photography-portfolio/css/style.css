@@ -1,0 +1,119 @@
+* {
+    box-sizing: border-box;
+}
+nav .btn {
+    background-color: white;
+    color:  #9c7a3c;
+    font-weight: bold;
+    padding: 12px 24px;
+    border-radius: 24px;
+    margin-left: auto;
+    margin-right: 15px;
+}
+nav{
+    display: flex;
+    align-items: center;
+    gap: 24px;
+    padding: 16px 0px;
+    margin-left: 45px;
+}
+header {
+    background-color: #d6c795;
+    top: 0px;
+}
+nav a { 
+    color:  #9c7a3c;
+    text-decoration: none;
+    margin-left: 50px;
+}
+
+
+
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+}
+
+.hero {
+  height: 50vh;
+  background: url(../images/urban-hi-res-1ui7.jpg);
+  background-size: cover;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 5px;
+}
+.hero::after {
+  content: "";
+  position: absolute;
+  top: 0; left: 0;
+}
+.hero-content {
+  position: relative;
+  z-index: 1;
+}
+.btn {
+  display: inline-block;
+  padding: 10px 20px;
+  background: #d6c795;
+  color: #9c7a3c;
+  text-decoration: none;
+  border-radius: 5px;
+}
+.btn{
+    margin-left: 29%;
+}
+.hero h2 {
+    color: white;
+    font-size: 200%;
+    margin-bottom: 50%;
+}
+
+
+*{
+    box-sizing: border-box;
+}
+
+body{
+    margin: 0px;
+    font-family: sans-serif;
+}
+
+img{
+    width: 100%;
+    object-fit: cover;
+}
+.single-column{
+    width: 90vw;
+    max-width: 900px;
+    margin: 0px auto;
+}
+.grid-gallery{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr ;
+}
+.single-column h3{
+    text-align: center;
+    margin-top: 55%;
+    font-size: 200%;
+    color: #9c7a3c;
+}
+ 
+.cards{
+    display: flex;
+    gap: 50px;
+    justify-content: center;
+}
+.card1{
+    background-color: #d6c795;
+    padding: 25px;
+    margin-top: 5%;
+}
+.cards a{
+    text-decoration: none;
+    color: #9c7a3c;
+}
+.cards h4{
+    text-decoration: underline;
+}
+

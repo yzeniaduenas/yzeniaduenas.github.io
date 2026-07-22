@@ -1,0 +1,46 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0px;
+}
+
+
+.post-it{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 5px;
+    background-image: url("../images/corkboard.jpg");
+    border-image: url("../images/frame.jpg") 49 50 46 47;
+     border-style: solid;
+    border-width: 50px;
+    margin: 24px;
+    min-height: calc(100vh - 48px);
+    padding: 24px;
+    width: calc(100vw - 48px);
+}
+
+.post-yellow{
+    background-color: yellow;
+    margin: 15px auto;
+    padding: 10px;
+}
+.post-blue{
+    background-color: lightblue;
+    margin: 15px auto;
+    padding: 10px;
+}
+.post-green{
+    background-color: lightgreen;
+    margin: 15px auto;
+    padding: 10px;
+}
+.post-blue2{
+     background-color: lightblue;
+    margin: 15px auto;
+    padding: 10px;
+}
+h1{
+    text-align: center;
+}
